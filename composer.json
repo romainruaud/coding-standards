@@ -1,5 +1,5 @@
 {
-    "name": "smile/coding-standards",
+    "name": "smile/magento2-coding-standards",
     "type": "library",
     "license": "OSL-3.0",
     "authors": [
@@ -12,8 +12,8 @@
             "email": "romain.ruaud@smile.fr"
         }
     ],
-    "description": "Smile Coding Standards for community projects",
-    "homepage": "https://github.com/Smile-SA/coding-standards",
+    "description": "Smile Coding Standards for Magento2 community projects",
+    "homepage": "https://github.com/Smile-SA/magento2-coding-standards",
     "keywords": [
         "php",
         "phpcs",
